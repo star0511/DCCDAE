@@ -20,6 +20,16 @@ The dataset can be downloaded from here:
 
 You need download the Datasets and copy thems to the data folder.
 ## Usage
+First you need to create the followed folders in the root of this project
+
+data
+
+noisedata
+
+checkpoint
+
+2_viewdata
+
 Generate two views
 ```
 python 1.Generate the second view.py
