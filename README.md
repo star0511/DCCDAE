@@ -7,8 +7,8 @@ python == 3.7
 numpy == 1.19.5
 
 sklearn == 0.0
-## Dataset
-The dataset can be downloaded from here 
+## Datasets
+The dataset can be downloaded from here:
 
 [GPDS_signet_f](https://drive.google.com/open?id=1x-OnstvAMP7rw01T7Z_C7XP_i7l0TPVx) 
 
@@ -18,7 +18,7 @@ The dataset can be downloaded from here
 
 [brazilian_signet_f](https://drive.google.com/open?id=1sNBVk77ipBUePbC72kuS9dsrEP3zhT7e)
 
-You need download the 
+You need download the Datasets and copy thems to the data folder.
 ## Usage
 Generate two views
 ```
@@ -32,3 +32,5 @@ All parameters used in the paper have been set to the default values and can be 
 ```
 python 2.3.DDCCAE、WD.py --<parameter name> <parameter value>
 ```
+## License
+The source code is released under the BSD 3-clause license and is restricted for non-commercial use.
